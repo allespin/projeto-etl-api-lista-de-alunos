@@ -8,7 +8,7 @@ Este projeto é uma API simples que realiza o processo de ETL (Extração, Trans
 - **FastAPI**: Criação da API e documentação automática (Swagger).
 - **Pandas**: Para leitura e manipulação do arquivo CSV.
 - **Uvicorn**: Servidor para rodar a aplicação.
-- **nGrok**: Permite expor a API via nuvem para qualquer pessoa acessar remotamente
+- **Ngrok**: Permite expor a API via nuvem para qualquer pessoa acessar remotamente
 
 ## 📋 Como Executar
 1. Instale as dependências: `pip install -r requirements.txt`
