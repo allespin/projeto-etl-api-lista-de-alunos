@@ -1,6 +1,8 @@
 # Projeto ETL: Lista de Alunos 🎓
 
-Este projeto é uma API simples que realiza o processo de ETL (Extração, Transformação e Carga) para listar nomes a partir de um arquivo CSV. Funciona como a criação de sistema simples que permite que dados que estão no seu computador local sejam acessados e processados por qualquer outro serviço na nuvem como o Google Colab.
+Desenvolvimento de uma pipeline de dados simplificada. O projeto consiste em uma API que disponibiliza os dados após um processo de ETL (Extração, Transformação e Carga) realizado a partir de um arquivo CSV com nomes de alunos. 
+
+A solução permite que dados armazenados localmente sejam consumidos de forma estruturada por serviços em nuvem, como o Google Colab, simulando um cenário real de integração de dados.
 
 
 ## 🚀 Tecnologias Utilizadas
