@@ -5,6 +5,7 @@ Este projeto é uma API simples que realiza o processo de ETL (Extração, Trans
 
 ## 🚀 Tecnologias Utilizadas
 - **Python**
+- **Google Colab**
 - **FastAPI**: Criação da API e documentação automática (Swagger).
 - **Pandas**: Para leitura e manipulação do arquivo CSV.
 - **Uvicorn**: Servidor para rodar a aplicação.
