@@ -1,4 +1,4 @@
-# Projeto ETL: Lista de Alunos 🎓
+# Pipeline de dados com integração via API 🎓
 
 Desenvolvimento de uma pipeline de dados simplificada. O projeto consiste em uma API que disponibiliza os dados após um processo de ETL (Extração, Transformação e Carga) realizado a partir de um arquivo CSV com nomes de alunos. 
 
